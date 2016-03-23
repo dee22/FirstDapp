@@ -1,3 +1,7 @@
+# Hello World Dapp
+This is a Hello World! dapp using LISK.
+The following is an official earlystage documentation from LISK
+
 # Lisk Dapps SDK
 
 The official SDK for building dapps on the [Lisk](https://lisk.io) decentralized application platform.
